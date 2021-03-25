@@ -1,12 +1,12 @@
 import setuptools
 
 setuptools.setup(name="dsbootcamp4",
-                 version="0.0.1",
+                 version="0.0.2",
                  license="MIT",
                  author="Vahit Keskin",
                  author_mail="m.vahitkeskin@gmail.com",
                  description="Data Science Tools",
-                 url="https://github.com/mvahit/dshi",
+                 url="https://github.com/mvahit/dsbootcamp4",
                  keywords=["data science", "machine learning", "bootcamp"],
                  classifiers=[
                      "Development Status :: 4 - Beta",
